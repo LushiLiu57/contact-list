@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: linear-gradient(to right, rgb(216, 194, 236) 40%,rgb(241, 216, 233) 50%);
 }
 
 .title {
@@ -37,22 +38,22 @@
   font-size: larger;
   font-family:fantasy;
   letter-spacing:0.2em;
-  color:rgb(25, 101, 31);
+  color:rgb(25, 36, 153);
 }
 
 .elementlist {
   width:520px;
   height:fit-content;
-  border: 3px solid green;
+  border: 3px solid rgb(47, 26, 237);
   border-radius:30px;
-  background-color: aquamarine;
+  background-color: rgb(117, 132, 244);
   margin: 10px;
 }
 
 .element{
   width: 500px;
   height: 180px;
-  border: 2px solid green;
+  border: 2px solid rgb(47, 26, 237);
   border-radius: 15px;
   background-color: aliceblue;
   margin: 5px;
